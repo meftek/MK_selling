@@ -3,16 +3,15 @@
 	border-right: 1px solid #ddd;
 	border-bottom: 2px solid #e0e0e0;
 	border-radius: 4px;
-	padding: 10px;
+	padding-left: 20px;
+	padding-right: 20px;
+	padding-top:10px;
+	padding-bottom:10px;
 	min-height: 500px;
 }
 
 .jumbotron {
 	background-color: white;
-
-	padding-bottom: 0px;
-	margin-bottom: 0px;
-	padding-top: 0px;
 
 
 }
@@ -21,6 +20,7 @@
 	background-color: #29343A;
 	padding-top: 7px;
 	padding-bottom: 5px;
+	margin-bottom:10px;
 	text-align: center;
 	border-radius: 4px 4px 0px 0px;
 }
@@ -44,7 +44,7 @@
 
 #head{
 	background-color: #389476;
-	background-size: 100% 100%;
+	
     background-repeat: no-repeat;
     text-align: right;
 	padding: 45px;
@@ -59,14 +59,13 @@ blockquote {
 }
 
 body{
-	margin-top: 20px;
+	
 	background-color: white;
 }
 
 .container {
 	background-color: white;
-	padding: 10px;
-	padding-top: 20px;
+	
 	
 
 }
