@@ -11,8 +11,18 @@
 }
 
 .jumbotron {
-	background-color: white;
+	background-color: #389476;
+	
 
+}
+
+#head{
+	background-color: #389476;
+	text-align: right;
+	
+	color: #A7D6C7;
+	/*font-family: 'Rosario', sans-serif;*/
+	font-family: 'Cardo', serif;
 
 }
 #titelvid {
@@ -42,17 +52,7 @@
 	
 }
 
-#head{
-	background-color: #389476;
-	
-    background-repeat: no-repeat;
-    text-align: right;
-	
-	color: #A7D6C7;
-	/*font-family: 'Rosario', sans-serif;*/
-	font-family: 'Cardo', serif;
 
-}
 
 blockquote {
 	font-size: 13px;
