@@ -124,7 +124,7 @@ body{
 	height: 50px;
 	margin-top: -50px;
 	border: 1px solid white;
-	border-radius: none;
+	border-radius:0px;
 	opacity: 0.9;
 	
 }
