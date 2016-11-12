@@ -123,8 +123,8 @@ body{
 	color: #413530;
 	height: 50px;
 	margin-top: -50px;
-	border: none;
-	border-radius:none;
+	border: 1px solid white;
+	border-radius: none;
 	opacity: 0.9;
 	
 }
