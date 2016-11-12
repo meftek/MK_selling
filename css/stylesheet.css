@@ -125,7 +125,10 @@ body{
 
 .panel-footer{
 	background-color: #FF8551;
-		color: #413530;
+	color: #413530;
+	height: 50px;
+	margin-top: -50px;
+	opacity: 0.5;
 	
 }
 
