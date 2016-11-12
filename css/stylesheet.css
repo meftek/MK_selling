@@ -26,8 +26,8 @@
 
 }
 #titelvid {
-	color:#97A984;
-	background-color: #29343A;
+	color:#FFD144;
+	background-color: #413D30;
 	padding-top: 7px;
 	padding-bottom: 5px;
 	margin-bottom:10px;
@@ -39,6 +39,7 @@
 .panel-default{
 	padding: 0px;
 	border: none;
+
 }
 
 .panel-body{
@@ -64,7 +65,7 @@ body{
 }
 
 .container {
-	background-color: white;
+	background-color: #175E9A;
 	
 	
 
