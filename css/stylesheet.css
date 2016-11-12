@@ -80,12 +80,14 @@ body{
 .nav-tabs > li > a{
 	color:#FFD144;
 	background-color: #413D30;
+	border-color: #413D30;
 }
 
 .nav-tabs > li > a:hover,
 .nav-tabs > li > a:focus {
 	background-color:#FFD144;
 	color: #413D30;
+	border-color: #413D30;
 }
 
 .nav-tabs>li.active>a, 
@@ -94,6 +96,7 @@ body{
  {
 	background-color: #FFD300;
 	color: #413D30;
+	border-color:#FFD300;
 }
 
 
