@@ -11,16 +11,16 @@
 }
 
 .jumbotron {
-	background-color: #389476;
+	background-color: #0677D5;
 	
 
 }
 
 #head{
-	background-color: #389476;
+	background-color: #0677D5;
 	text-align: right;
 	
-	color: #A7D6C7;
+	color: #5DB6FF;
 	/*font-family: 'Rosario', sans-serif;*/
 	font-family: 'Cardo', serif;
 
@@ -60,7 +60,7 @@ blockquote {
 
 body{
 	
-	background-color: white;
+	background-color: #175E9A;
 }
 
 .container {
@@ -73,26 +73,26 @@ body{
 .nav-tabs{
 	background-color: white;
 	border-color: white;
-	color: #939FAB; 
+	color: #FFD144; 
 }
 
 .nav-tabs > li > a{
-	color:#97A984;
-	background-color: #DEA755;
+	color:#FFD144;
+	background-color: #413D30;
 }
 
 .nav-tabs > li > a:hover,
 .nav-tabs > li > a:focus {
-	background-color:#FFD28F;
-	color: #29343A;
+	background-color:#FFD144;
+	color: #413D30;
 }
 
 .nav-tabs>li.active>a, 
 .nav-tabs>li.active>a:focus, 
 .nav-tabs>li.active>a:hover
  {
-	background-color: #63AF96;
-	color: #5E6E77;
+	background-color: #FFD300;
+	color: #413D30;
 }
 
 
