@@ -1,5 +1,5 @@
 .tab-content{
-	background-color:#0677D5;
+	background-color:#175E9A;
 	padding-left: 20px;
 	padding-right: 20px;
 	padding-top:10px;
@@ -34,9 +34,10 @@
 
 
 .panel-default{
-	padding-left: 10px;
-	padding-right: 10px;
-	border-right: 1px dotted #50B0FF;
+	background-color:#175E9A;
+	padding-left: 20px;
+	padding-right: 20px;
+	
 
 }
 
@@ -46,7 +47,7 @@
 	border: none;
 }
 
-	.panel-footer{
+.panel-footer{
 	background-color: #FF8551;
 		color: #413530;
 	
@@ -103,10 +104,10 @@ body{
 
 
 #media {
-	border: 1px solid #175E9A;
+	
 	background-color: #175E9A;
-	min-height: 30px;
-
+	min-height: 50px;
+	border-right: 1px dotted #50B0FF;
 
 }
 
