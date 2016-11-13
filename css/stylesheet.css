@@ -38,7 +38,27 @@
 	border-color:#FFD300;	
 }
 
+#coursename{
+	background-color:#FC901E;
+}
 
+#tabs {
+	background-color:white;
+}
+
+#video {
+	background-color:#034E67;
+}
+#recommend{
+	background-color:#5BA7C0;
+}
+#buy {
+	background-color: white;
+}
+footer{
+	background-color: #545454;
+}
+	
 
 
 
