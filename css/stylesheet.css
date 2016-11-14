@@ -17,8 +17,8 @@
 .jumbotron {
 	background-color: #FC901E;
 	margin-bottom:0px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 
@@ -35,36 +35,45 @@
 #tabs {
 	background-color:white;
 	height: 500px;
-     padding-top: 10px;
-    padding-bottom: 10px;
+     padding-top: 20px;
+    padding-bottom: 20px;
 }
 
 #video {
 	background-color:#034E67;
 	height: 250px;
-     padding-top: 10px;
-    padding-bottom: 10px;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 #recommend{
 	background-color:#5BA7C0;
 	height: 250px;
-     padding-top: 10px;
-    padding-bottom: 10px;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 #buy {
 	background-color: white;
 	height: 400px;
-     padding-top: 10px;
-    padding-bottom: 10px;
+     padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 footer{
 	background-color: #545454;
-	height: 250px;
-     padding-top: 10px;
-    
+	padding-top: 20px;
+    padding-bottom: 5px;
 }
 	
+#socials img{
+    width:50px;
+}
 
+#credits{
+    text-align: center;
+    
+}
 
 
 
