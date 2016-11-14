@@ -1,39 +1,67 @@
 .page-header {
 	background-color:#2F2F2F;
 	margin:0px;
+    color: white;
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
+#logo {
+    padding-left:25px;
+}
+
+#description{
+    text-align: right;
+    padding-right: 25px;
+}
 .jumbotron {
 	background-color: #FC901E;
 	margin-bottom:0px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 
 #coursename{
 	background-color:#FC901E;
 	height: 350px;
+    text-align: center;
 }
 
+#vidstart{
+    min-width:450px;
+    
+}
 #tabs {
 	background-color:white;
 	height: 500px;
+     padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 #video {
 	background-color:#034E67;
 	height: 250px;
+     padding-top: 10px;
+    padding-bottom: 10px;
 }
 #recommend{
 	background-color:#5BA7C0;
 	height: 250px;
+     padding-top: 10px;
+    padding-bottom: 10px;
 }
 #buy {
 	background-color: white;
 	height: 400px;
+     padding-top: 10px;
+    padding-bottom: 10px;
 }
 footer{
 	background-color: #545454;
 	height: 250px;
+     padding-top: 10px;
+    
 }
 	
 
