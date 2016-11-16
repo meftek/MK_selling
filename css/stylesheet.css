@@ -77,8 +77,22 @@ footer{
     margin-top: 30px;
 }
 
+video {
+    width:80%;
+}
+
 #name{
     text-align: center;
-     margin-bottom: 30px;
+    margin-bottom: 30px;
     margin-top: 30px;
+    font-family: 'Hind', sans-serif;
+    
+}
+
+#name h2{
+    font-size: 35px;
+    letter-spacing: 3px;
+}
+#name h3{
+    font-size: 25px;
 }
