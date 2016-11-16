@@ -77,22 +77,40 @@ footer{
     margin-top: 30px;
 }
 
-video {
-    width:80%;
+#video iframe{
+    max-width:80%;
+   
+}
+
+#video {
+    padding-top: 50px;
+    padding-bottom: 50px;
 }
 
 #name{
     text-align: center;
     margin-bottom: 30px;
-    margin-top: 30px;
-    font-family: 'Hind', sans-serif;
-    
+    margin-top: 25px;
 }
 
 #name h2{
-    font-size: 35px;
+    font-size: 40px;
     letter-spacing: 3px;
+    font-weight: 800;
+    font-family: 'Raleway', sans-serif;
 }
 #name h3{
-    font-size: 25px;
+    font-size: 30px;
+    font-family: 'Raleway', sans-serif;
+}
+
+.btn-primary {
+    background: #187C9D;
+    border:#187C9D;
+    color: #ffffff;
+}
+
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
+    background: #358CA9;
+    border:#358CA9;
 }
