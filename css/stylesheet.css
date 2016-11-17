@@ -35,13 +35,9 @@
     padding-bottom: 20px;
 }
 
-#video {
-	background-color:#034E67;
-	height: 250px;
-     padding-top: 20px;
-    padding-bottom: 20px;
-    text-align: center;
-}
+
+	
+
 #recommend{
 	background-color:#5BA7C0;
 	padding-top: 30px;
@@ -80,11 +76,13 @@ footer{
 }
 
 #video iframe{
-    max-width:80%;
-   
+    min-width: 272px; 
+    min-height: 169px;
 }
 
 #video {
+    background-color:#034E67;
+    text-align: center;
     padding-top: 50px;
     padding-bottom: 50px;
 }
