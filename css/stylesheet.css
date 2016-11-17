@@ -44,10 +44,12 @@
 }
 #recommend{
 	background-color:#5BA7C0;
-	height: 250px;
-     padding-top: 20px;
+	padding-top: 30px;
     padding-bottom: 20px;
     text-align: center;
+    color: #2F2F2F;
+    font-family: 'Raleway', sans-serif;
+    font-size: 17px;
 }
 #buy {
 	background-color: white;
