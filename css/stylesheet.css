@@ -104,6 +104,19 @@ footer{
     font-family: 'Raleway', sans-serif;
 }
 
+#recommend>div{
+    border-right: 1px solid #92b5c0;
+    padding-left: 7%;
+    padding-right: 7%;
+    padding-bottom: 20px;
+}
+
+#person{
+   text-align: right;
+    font-style: italic;
+    
+}
+
 .btn-primary {
     background: #187C9D;
     border:#187C9D;
