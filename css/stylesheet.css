@@ -75,16 +75,26 @@ footer{
     margin-top: 30px;
 }
 
-#video iframe{
-    min-width: 272px; 
-    min-height: 169px;
+.item{
+    height: 320px;
+    
 }
+.item> iframe{
+    width: 100%;
+    height:100%;
+}
+.carousel-caption{
+    color: #FC901E;
+   
+}
+
 
 #video {
     background-color:#034E67;
     text-align: center;
-    padding-top: 50px;
-    padding-bottom: 50px;
+    padding-top: 5px;
+    padding-bottom: 15px;
+    color:#FC901E;
 }
 
 #name{
