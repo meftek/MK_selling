@@ -32,7 +32,7 @@
 	background-color:white;
 	padding-top: 20px;
     padding-bottom: 20px;
-    min-height: 550px;
+    min-height: 600px;
 }
 
 .tab-content{
@@ -140,4 +140,24 @@ footer{
 .btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .open > .dropdown-toggle.btn-primary {
     background: #358CA9;
     border:#358CA9;
+}
+
+#headingOne,#headingTwo,#headingThree,#headingFour,#headingFive,#headingSix,#headingSeven,#headingEight{
+    
+    background: #ffffff;
+    text-decoration: none;
+    border:none;
+   
+}
+
+#headingOne a:hover, 
+#headingOne a:active, 
+#headingOne a:focus{
+    text-decoration: none;
+    }
+
+#headingOne a:hover{
+ color:#FC901E;
+    
+    
 }
