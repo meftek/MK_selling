@@ -142,7 +142,21 @@ footer{
     border:#358CA9;
 }
 
-#headingOne,#headingTwo,#headingThree,#headingFour,#headingFive,#headingSix,#headingSeven,#headingEight{
+
+#headingOne,
+#headingTwo,
+#headingThree,
+#headingFour,
+#headingFive,
+#headingSix,
+#headingSeven,
+#headingEight,
+#headingNine,
+#headingTen,
+#heading11,
+#heading12,
+#heading13,
+#heading14{
     
     background: #ffffff;
     text-decoration: none;
@@ -157,7 +171,13 @@ footer{
     }
 
 #headingOne a:hover{
- color:#FC901E;
+ color:#FC901E;    
     
-    
+}
+#ac{
+    border: none;
+    box-shadow: 0px 0px;
+   
+   
+   
 }
