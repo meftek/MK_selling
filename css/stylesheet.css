@@ -39,7 +39,7 @@ body{
 }
 
 .tab-content{
-    padding:20px;
+    padding:10px;
 }
 
 
@@ -151,19 +151,13 @@ footer{
 #headingThree,
 #headingFour,
 #headingFive,
-#headingSix,
-#headingSeven,
-#headingEight,
-#headingNine,
-#headingTen,
-#heading11,
-#heading12,
-#heading13,
-#heading14{
+#headingSix
+{
     
-    background: #ffffff;
+    background: #B6DCE8;
     text-decoration: none;
-    border:none;
+    padding: 3px;
+    text-align: center;
     
    
 }
@@ -173,6 +167,7 @@ footer{
 #headingOne a:focus{
     text-decoration: none;
     color:#FC901E;
+    
     }
 
 #headingTwo a:hover, 
@@ -180,6 +175,7 @@ footer{
 #headingTwo a:focus{
     text-decoration: none;
     color:#FC901E;
+
     }
 
 #headingThree a:hover, 
@@ -206,80 +202,15 @@ footer{
     text-decoration: none;
     color:#FC901E;
     }
-#headingSeven a:hover, 
-#headingSeven a:active, 
-#headingSeven a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#headingEight a:hover, 
-#headingEight a:active, 
-#headingEight a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#headingNine a:hover, 
-#headingNine a:active, 
-#headingNine a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#headingTen a:hover, 
-#headingTen a:active, 
-#headingTen a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#heading11 a:hover, 
-#heading11 a:active, 
-#heading11 a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#heading12 a:hover, 
-#heading12 a:active, 
-#heading12 a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#heading13 a:hover, 
-#heading13 a:active, 
-#heading13 a:focus{
-    text-decoration: none;
-    color:#FC901E;
-    }
-#heading14 a:hover, 
-#heading14 a:active, 
-#heading14 a:focus{
-    text-decoration: none;
-    color:#FC901E; 
-    }
+
 
 #headingOne a:hover,
 #headingTwo a:hover,
 #headingThree a:hover,
 #headingFour a:hover,
 #headingFive a:hover,
-#headingSix a:hover,
-#headingSeven a:hover,
-#headingEight a:hover,
-#headingNine a:hover,
-#headingTen a:hover,
-#heading11 a:hover,
-#heading12 a:hover,
-#heading13 a:hover,
-#heading14 a:hover{
+#headingSix a:hover{
  color:#FC901E;    
-    
-}
-#ac{
-    border: none;
-       
+    background: #51ADC9;
 }
 
-#accordion{
-            overflow:auto;
-            height:400px;
-            width:100%;
-        
-}
