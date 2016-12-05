@@ -216,10 +216,7 @@ footer{
 
 
 
-#infotabsl1 h4,
-#infotabsr1 h4,
-#infotabsl2 h4,
-#infotabsr2 h4{
+#infotabsh h4{
     background: #B6DCE8;
     padding-top: 7px;
     padding-bottom: 7px;
@@ -235,4 +232,21 @@ footer{
     margin-top: 0px;
    
     
+}
+
+#arrows{
+    height:250px;
+    text-align: center;
+    padding-top: 100px;
+}
+#arrows img{
+    width:50px;
+    height: 50px;
+    
+}
+
+#wymog{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
 }
