@@ -59,7 +59,7 @@ body{
 	height: 400px;
      padding-top: 20px;
     padding-bottom: 20px;
-    text-align: center;
+    
 }
 footer{
 	background-color: #545454;
@@ -218,8 +218,8 @@ footer{
 
 #infotabsh h4{
     background: #B6DCE8;
-    padding-top: 7px;
-    padding-bottom: 7px;
+    padding-top: 9px;
+    padding-bottom: 9px;
     border-radius: 4px 4px 0px 0px;
     margin-bottom: 0px;
     padding-left:10px;
@@ -227,7 +227,8 @@ footer{
 }
 
 #infotabs{
-    border:1px solid #B6DCE8;
+    border:1px solid #DDDDDD;
+    border-radius: 0px 0px 4px 4px;
     padding: 10px;
     margin-top: 0px;
    
@@ -249,4 +250,38 @@ footer{
     text-align: center;
     margin-top: 15px;
     margin-bottom: 15px;
+}
+
+#buypanel h4{
+    background: #FC901E;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 4px 4px 0px 0px;
+    border-color: #FC901E;
+    margin-bottom: 0px;
+    padding-left:10px;
+    
+}
+
+
+
+#sellbuttons img{
+		box-shadow: 1px 2px 5px gray;
+}
+
+#sellbuttons img:hover{
+	opacity: .8;
+}
+
+#price{
+	background-color: #3399ff;
+	border-radius: 3px;
+    padding-bottom: 5px;
+    padding-top: 5px;
+	box-shadow: 1px 1px 5px #001a33;
+	color: white;
+	text-shadow: 1px 1px 5px gray;
+	width:60%;
+	margin: auto;
+	margin-bottom: 20px;
 }
