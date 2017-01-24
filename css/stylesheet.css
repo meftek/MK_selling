@@ -1,9 +1,11 @@
+
 body{
     font-family: 'Raleway', sans-serif;
+    
 }
-.page-header {
+#headerrr {
 	background-color:#2F2F2F;
-	margin:0px;
+	margin-top:0px;
     color: white;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -17,17 +19,14 @@ body{
     text-align: right;
     padding-right: 25px;
 }
-.jumbotron {
-	background-color: #FC901E;
-	margin-bottom:0px;
+
+
+
+#coursname{
+	background-color:#FC901E;
+    margin-bottom:0px;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-
-#coursename{
-	background-color:#FC901E;
- 
 }
 
 
@@ -61,10 +60,11 @@ body{
     padding-bottom: 20px;
     
 }
-footer{
+#footerr{
 	background-color: #545454;
 	padding-top: 20px;
     padding-bottom: 5px;
+    
 }
 	
 #socials img{
