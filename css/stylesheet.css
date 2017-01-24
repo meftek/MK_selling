@@ -251,7 +251,9 @@ footer{
     margin-top: 15px;
     margin-bottom: 15px;
 }
-
+#buypanel{
+    margin-bottom: 20px;
+}
 #buypanel h4{
     background: #FC901E;
     padding-top: 9px;
@@ -263,12 +265,23 @@ footer{
     
 }
 
-
-
+#contentbuy{
+    margin-top: 15px;
+    font-size: 18px;
+}
+#contentbuy li{
+    font-size: 18px;
+}
 #sellbuttons img{
 		box-shadow: 1px 2px 5px gray;
+    margin-bottom: 20px;
+    margin-top: 10px;
+   
+    
 }
-
+#paypal img{
+    padding:18px;
+}
 #sellbuttons img:hover{
 	opacity: .8;
 }
@@ -276,12 +289,14 @@ footer{
 #price{
 	background-color: #3399ff;
 	border-radius: 3px;
-    padding-bottom: 5px;
-    padding-top: 5px;
+    padding: 10px;
+   
 	box-shadow: 1px 1px 5px #001a33;
 	color: white;
 	text-shadow: 1px 1px 5px gray;
 	width:60%;
+    text-align: center;
 	margin: auto;
 	margin-bottom: 20px;
+    margin-top: 30px;
 }
