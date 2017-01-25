@@ -73,12 +73,14 @@ body{
 #contact{
     padding-bottom: 7px;
     font-size:1.1em;
-    text-decoration: none;
+    
 }
 
-contact a:hoover{
-    color:
+#contact a{
+    text-decoration: none;
+    color:#5BA7C0;
 }
+
 #credits{
     font-size: 0.8em; 
     text-align:center; 
