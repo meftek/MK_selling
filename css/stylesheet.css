@@ -54,6 +54,7 @@ body{
 	
 
 #recommend{
+  
 	background-color:#5BA7C0;
 	padding-top: 30px;
     padding-bottom: 20px;
@@ -76,6 +77,9 @@ body{
     color: #5BA7C0;
 }
 	
+#socials{
+    text-align: right;
+}
 #socials img{
     width:50px;
 }
@@ -152,11 +156,12 @@ height:250px;
 }
 
 #recommend>div{
-    border-right: 1px solid #92b5c0;
+    
     padding-left: 7%;
     padding-right: 7%;
     padding-bottom: 20px;
 }
+
 
 #person{
    text-align: right;
@@ -309,9 +314,7 @@ height:250px;
    
     
 }
-#paypal img{
-    padding:18px;
-}
+
 #sellbuttons img:hover{
 	opacity: .8;
 }
