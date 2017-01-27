@@ -1,9 +1,11 @@
+
 body{
     font-family: 'Raleway', sans-serif;
+    
 }
-.page-header {
+#headerrr {
 	background-color:#2F2F2F;
-	margin:0px;
+	margin-top:0px;
     color: white;
     padding-top: 5px;
     padding-bottom: 5px;
@@ -11,23 +13,29 @@ body{
 
 #logo {
     padding-left:25px;
+    height: 80px;
+    padding-top: 10px;
 }
 
 #description{
     text-align: right;
     padding-right: 25px;
+    padding-top: 20px;
+    color: #FC901E;
 }
-.jumbotron {
-	background-color: #FC901E;
-	margin-bottom:0px;
+#description a{
+    text-decoration: none;
+    color: #5BA7C0;
+    font-size: 1.25em;
+}
+
+
+
+#coursname{
+	background-color:#FC901E;
+    margin-bottom:0px;
     padding-top: 20px;
     padding-bottom: 20px;
-}
-
-
-#coursename{
-	background-color:#FC901E;
- 
 }
 
 
@@ -46,6 +54,7 @@ body{
 	
 
 #recommend{
+  
 	background-color:#5BA7C0;
 	padding-top: 30px;
     padding-bottom: 20px;
@@ -59,28 +68,53 @@ body{
 	height: 400px;
      padding-top: 20px;
     padding-bottom: 20px;
-    text-align: center;
+    
 }
-footer{
+#footerr{
 	background-color: #545454;
-	padding-top: 20px;
-    padding-bottom: 5px;
+	padding-top: 25px;
+    
+    color: #5BA7C0;
 }
 	
+#socials{
+    text-align: right;
+}
 #socials img{
     width:50px;
 }
+#contact{
+    padding-bottom: 7px;
+    font-size:1.1em;
+    
+}
+
+#contact a{
+    text-decoration: none;
+    color:#5BA7C0;
+}
 
 #credits{
-    text-align: center;
-    
+    font-size: 0.8em; 
+    text-align:center; 
+    border-top: 1px solid #3A8DB4;
+    padding: 5px;
+    color: #3A8DB4;
 }
 
 #vidstart{
     text-align: center;
     margin-bottom: 30px;
     margin-top: 30px;
+    
 }
+
+#vidstart iframe{
+   width: 100%;
+height:250px;
+}
+
+
 
 .item{
     height: 320px;
@@ -122,11 +156,12 @@ footer{
 }
 
 #recommend>div{
-    border-right: 1px solid #92b5c0;
+    
     padding-left: 7%;
     padding-right: 7%;
     padding-bottom: 20px;
 }
+
 
 #person{
    text-align: right;
@@ -214,43 +249,87 @@ footer{
     background: #51ADC9;
 }
 
-#infotabsl1{
-    min-height:250px;
-    border-right: 1px solid #DDDDDD;
-    border-bottom: 1px solid #DDDDDD;
-    
-}
-#infotabsr1{
-    min-height:250px;
-   border-bottom: 1px solid #DDDDDD;
-    
-}
-#infotabsl2{
-    min-height:250px;
-   border-right: 1px solid #DDDDDD;
-    
-}
-#infotabsr2{
-    min-height:250px;
-        
-}
 
-#infotabsl1 h4,
-#infotabsr1 h4,
-#infotabsl2 h4,
-#infotabsr2 h4{
-    text-align: center;
+
+#infotabsh h4{
     background: #B6DCE8;
-    padding-top: 5px;
-    padding-bottom: 5px;
+    padding-top: 9px;
+    padding-bottom: 9px;
     border-radius: 4px 4px 0px 0px;
     margin-bottom: 0px;
+    padding-left:10px;
     
 }
 
 #infotabs{
-    border:1px solid #B6DCE8;
+    border:1px solid #DDDDDD;
+    border-radius: 0px 0px 4px 4px;
     padding: 10px;
     margin-top: 0px;
-    min-height: 200px;
+   
+    
+}
+
+#arrows{
+    height:250px;
+    text-align: center;
+    padding-top: 100px;
+}
+#arrows img{
+    width:50px;
+    height: 50px;
+    
+}
+
+#wymog{
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+#buypanel{
+    margin-bottom: 20px;
+}
+#buypanel h4{
+    background: #FC901E;
+    padding-top: 9px;
+    padding-bottom: 9px;
+    border-radius: 4px 4px 0px 0px;
+    border-color: #FC901E;
+    margin-bottom: 0px;
+    padding-left:10px;
+    
+}
+
+#contentbuy{
+    margin-top: 15px;
+    font-size: 18px;
+}
+#contentbuy li{
+    font-size: 18px;
+}
+#sellbuttons img{
+		box-shadow: 1px 2px 5px gray;
+    margin-bottom: 20px;
+    margin-top: 10px;
+   
+    
+}
+
+#sellbuttons img:hover{
+	opacity: .8;
+}
+
+#price{
+	background-color: #3399ff;
+	border-radius: 3px;
+    padding: 10px;
+   
+	box-shadow: 1px 1px 5px #001a33;
+	color: white;
+	text-shadow: 1px 1px 5px gray;
+	width:60%;
+    text-align: center;
+	margin: auto;
+	margin-bottom: 20px;
+    margin-top: 30px;
 }
